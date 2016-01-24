@@ -1,0 +1,28 @@
+name: Creative Jiuce Folio
+favicon: null
+layout_spectrum: 0.28765290370211005
+typography_spectrum: 0.23833573632873595
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.029965947149321437
+  lightness: 0.3976834455970675
+  saturation: 0.7155942008830607
+  rhythmicContrast: 0.11308313184417784
+purpose: []
